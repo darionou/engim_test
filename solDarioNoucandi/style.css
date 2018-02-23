@@ -1,0 +1,31 @@
+
+body {
+  font-size:16px;
+  background-color: #1d1e21;
+  color: white;
+  height: 100vh;
+  font-family: 'Helvetica', sans-serif;
+}
+
+
+p {
+  margin-top: 4vh;
+}
+
+input {
+  font-size: 16px;
+  margin-top: 10vh;
+  width: inherit;
+  max-width: 70%;
+}
+
+span {
+ color: red;
+ background-color: yellow;
+}
+
+div img {
+padding-top: 30px;
+margin: 0 auto;
+width: 30%;
+}
